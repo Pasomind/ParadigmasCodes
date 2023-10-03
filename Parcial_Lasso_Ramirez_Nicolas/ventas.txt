@@ -1,0 +1,2 @@
+Funcionario: Ospina Jose, Cliente: DNI 28013458, Cantidad de entradas: 2, Pelicula: Barbie, Sala: 2, Horario: 15:45, Fecha de la venta: 2023-10-03, Hora de la venta: 12:56
+Funcionario: 12, DNI Cliente: 2121, Cantidad de entradas: 1212, Pelicula: Barbie, Sala: 2, Horario: 15:45, Fecha de la venta: 12, Hora de la venta: 12
